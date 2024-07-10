@@ -1,1 +1,1 @@
-[Project Page](https://jiahao620.github.io/GaussReg/)
+[Project Page](https://jiahao620.github.io/gaussreg/)
